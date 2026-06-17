@@ -1,30 +1,23 @@
-# My First Project
+# Hi, I'm Tanishq 👋
 
-A collection of beginner Python projects:
+🌱 Just getting started with code — learning Git, Linux, and Python one project at a time
 
-- 🎮 Rock, Paper, Scissors game (`rps.py`)
-- 🔐 Password Generator (`password_generator.py`)
+🔧 Currently exploring: Git & GitHub basics, Python scripting, and building small web apps
 
-## How to run
-```bash
-python3 rps.py
-python3 password_generator.py
-```
+## 🌤️ Featured Project
 
-Save (`Ctrl+O`, `Enter`, `Ctrl+X`), then push:
+**[Skyline Weather](https://tanishq-zz.github.io/my-first-project/)** — A vibrant, animated weather app with live conditions, 5-day forecast, hourly outlook, and sunrise/sunset tracking for any city.
+[View Code →](https://github.com/tanishq-zz/my-first-project)
 
-```bash
-git add README.md
-git commit -m "Update README with project descriptions"
-git push
-```
+## 🛠️ Other Projects
 
-If you still want to delete it instead, just run:
-```bash
-rm README.md
-git add -A
-git commit -m "Remove README"
-git push
-```
+- 🎮 [Rock, Paper, Scissors](https://github.com/tanishq-zz/my-first-project/blob/main/rps.py) — a simple terminal game in Python
+- 🔐 [Password Generator](https://github.com/tanishq-zz/my-first-project/blob/main/password_generator.py) — generates secure random passwords
 
-But I'd recommend editing it instead — want to go with that?# My First Project
+## 📫 Reach me
+
+- 📸 Instagram: [@wzz._.tanishq](https://www.instagram.com/wzz._.tanishq)
+- 📧 Email: tanishabuj@gmail.com
+
+---
+⭐ Thanks for stopping by my profile!
